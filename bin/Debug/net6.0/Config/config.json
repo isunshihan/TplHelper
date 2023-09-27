@@ -1,0 +1,49 @@
+{
+  "ext": ".html", //模板文件后缀
+  "tplroot": [ //模板文件根目录，可配置多个
+    "C:\\Users\\hiliqi\\Desktop\\新建文件夹"
+  ],
+  "tags": [ //标签库，随机调用
+    "noscript",
+    "noframes",
+    "acronym",
+    "abbr",
+    "address",
+    "b",
+    "bdi",
+    "bdo",
+    "big",
+    "cite",
+    "code",
+    "del",
+    "dfn",
+    "em",
+    "font",
+    "i",
+    "ins",
+    "kbd",
+    "mark",
+    "rp",
+    "rt",
+    "samp",
+    "small",
+    "strike",
+    "strong",
+    "sup",
+    "sub",
+    "time",
+    "tt",
+    "var",
+    "wbr",
+    "legend",
+    "map"
+  ],
+  "props": [ //属性库，随机调用
+    "date-time",
+    "date-val",
+    "draggable",
+    "dropzone",
+    "dir",
+    "lang"
+  ]
+}

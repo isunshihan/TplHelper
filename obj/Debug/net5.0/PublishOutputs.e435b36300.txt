@@ -1,0 +1,16 @@
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Config\config.json
+D:\开发\TplHelper\bin\Debug\net5.0\publish\TplHelper.exe
+D:\开发\TplHelper\bin\Debug\net5.0\publish\TplHelper.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\TplHelper.deps.json
+D:\开发\TplHelper\bin\Debug\net5.0\publish\TplHelper.runtimeconfig.json
+D:\开发\TplHelper\bin\Debug\net5.0\publish\TplHelper.pdb
+D:\开发\TplHelper\bin\Debug\net5.0\publish\AngleSharp.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\HtmlAgilityPack.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Microsoft.Extensions.Configuration.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Microsoft.Extensions.Configuration.Json.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Microsoft.Extensions.FileProviders.Physical.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\开发\TplHelper\bin\Debug\net5.0\publish\Microsoft.Extensions.Primitives.dll
